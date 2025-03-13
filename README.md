@@ -1,4 +1,5 @@
 # Spotify Web Player Clone
+[Click here to view the project](https://medhabar.github.io/spotify-clone/)
 
 ## Overview
 The Spotify Web Player Clone is a front-end project that replicates the UI/UX of Spotify's web player. It features a sidebar navigation, a music player, and a responsive design to provide a seamless music streaming experience.
